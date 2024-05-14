@@ -5,7 +5,7 @@
 	const isLoggedIn = true;
 </script>
 
-<section class="flex items-center justify-between">
+<section class="hidden items-center justify-between lg:flex">
 	<div class="flex items-center justify-center">
 		<MessageCircle />
 		<span class="text-center">+234 7011642322</span>
