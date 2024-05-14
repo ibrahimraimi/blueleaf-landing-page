@@ -27,7 +27,7 @@
 
 <section>
 	<Banner />
-	<Separator class="my-4 hidden" />
+	<Separator class="my-4 hidden lg:flex" />
 
 	<nav class="flex items-center justify-between">
 		<div>
